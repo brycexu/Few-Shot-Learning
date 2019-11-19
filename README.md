@@ -1,4 +1,4 @@
-Evaluation on Cifar-10
+Evaluation on Omniglot
 --------
 
 |                  | 5-way 1-shot(Acc)  | 5-way 5-shot(Acc)  | 20-way 1-shot(Acc)| 20-way 5-shot(Acc)   |
