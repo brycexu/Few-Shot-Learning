@@ -5,7 +5,7 @@
 import os
 import argparse
 
-def get_parser():
+def get_parser1():
     parser = argparse.ArgumentParser()
     parser.add_argument('-root', '--dataset_root',
                         type=str,
@@ -15,7 +15,7 @@ def get_parser():
     parser.add_argument('-exp', '--experiment_root',
                         type=str,
                         help='root where to store models, losses and accuracies',
-                        default='Result/')
+                        default='Result/5way5shot/')
 
     parser.add_argument('-nep', '--epochs',
                         type=int,
