@@ -1,4 +1,4 @@
-## Prototype Networks
+## Prototype Network
 
 ### Evaluation on Omniglot
 
